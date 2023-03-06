@@ -1,0 +1,6 @@
+projectKey=final
+serverUrl=http://localhost:9002
+serverVersion=9.7.1.62043
+dashboardUrl=http://localhost:9002/dashboard?id=final
+ceTaskId=AYahTF5vE-1zOdyLZlqP
+ceTaskUrl=http://localhost:9002/api/ce/task?id=AYahTF5vE-1zOdyLZlqP

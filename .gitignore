@@ -1,0 +1,22 @@
+# Ignore .env file
+.env
+
+# Ignore any files or directories created by Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.log
+*.swp
+*.swo
+*.db
+
+# Ignore static and media files
+static/
+media/
+
+
+
+
+
